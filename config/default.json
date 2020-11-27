@@ -1,0 +1,5 @@
+{
+  "PORT": 3000,
+  "BASE_URL": "http://localhost:3000",
+  "mongoUri": "mongodb+srv://dbUser:12345678a@cluster0.mvg33.mongodb.net/backend2?retryWrites=true&w=majority"
+}
